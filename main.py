@@ -1,6 +1,6 @@
-# File Name:     hw7Project2.py
+# File Name:     hw10Project1.py
 # Programmer:    Gabe Garcia
-# Date:          7/8/2020
+# Date:          7/21/2020
 
 def main():
   fatherHeight = eval(input("Enter father's height in inches: "))
